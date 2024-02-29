@@ -3,7 +3,7 @@
 public class Fruit
 {
 	public string name;
-	private int price;
+	public int price;
 
 	public Fruit()
 	{
